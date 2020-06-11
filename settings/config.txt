@@ -1,0 +1,16 @@
+{
+"HOST":"127.0.0.1",
+"PORT":9999,
+"server_url":"https://webhook.site/55ee74ac-97dc-4351-bf9f-40294a35b33a",
+"db_path":"C:\\sqlite\\Evrotec_raw.db",
+"last_rowid":8930000,
+"max_values_per_request": 50,
+"TCP_timeout":2,
+"DB_timeout":1,
+"field":"1",
+"bush":"1",
+"well":"1",
+"brigade":"1",
+"query_columns":["nodeid", "sourcetime", "servertime", "value", "type", "status", "identifier"],
+"agent_objects":["HydrokeyTorque", "HookPosition", "FlowOutput", "TankLevel1"]
+}

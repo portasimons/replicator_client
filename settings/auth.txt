@@ -1,0 +1,8 @@
+{
+"client_id":"rigintel",
+"client_secret":"1241dfds-1231w-sdf132-1231fsdf",
+"username":"user1",
+"password":"111",
+"scope":"222",
+"url":"https://<host>:<port>/api/v1/auth/"
+}
